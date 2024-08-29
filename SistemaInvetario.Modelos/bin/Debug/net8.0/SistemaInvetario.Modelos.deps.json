@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaInvetario.Modelos/1.0.0": {
+        "dependencies": {
+          "SistemaInvetario.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "SistemaInvetario.Modelos.dll": {}
+        }
+      },
+      "SistemaInvetario.Utilidades/1.0.0": {
+        "runtime": {
+          "SistemaInvetario.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaInvetario.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaInvetario.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

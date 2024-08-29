@@ -1,0 +1,16 @@
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\bin\Debug\net8.0\SistemaInvetario.Modelos.deps.json
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\bin\Debug\net8.0\SistemaInvetario.Modelos.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\bin\Debug\net8.0\SistemaInvetario.Modelos.pdb
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\bin\Debug\net8.0\SistemaInvetario.Utilidades.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\bin\Debug\net8.0\SistemaInvetario.Utilidades.pdb
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.csproj.AssemblyReference.cache
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.AssemblyInfoInputs.cache
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.AssemblyInfo.cs
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.sourcelink.json
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaI.9C589D1D.Up2Date
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\refint\SistemaInvetario.Modelos.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\SistemaInvetario.Modelos.pdb
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Modelos\obj\Debug\net8.0\ref\SistemaInvetario.Modelos.dll

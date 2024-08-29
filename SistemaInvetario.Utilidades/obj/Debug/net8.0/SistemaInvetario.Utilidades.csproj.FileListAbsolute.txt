@@ -1,0 +1,12 @@
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\bin\Debug\net8.0\SistemaInvetario.Utilidades.deps.json
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\bin\Debug\net8.0\SistemaInvetario.Utilidades.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\bin\Debug\net8.0\SistemaInvetario.Utilidades.pdb
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.AssemblyInfo.cs
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.sourcelink.json
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\refint\SistemaInvetario.Utilidades.dll
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\SistemaInvetario.Utilidades.pdb
+C:\Users\MiniOs\source\repos\Sistemadeinventariosv6\SistemaInvetario.Utilidades\obj\Debug\net8.0\ref\SistemaInvetario.Utilidades.dll
